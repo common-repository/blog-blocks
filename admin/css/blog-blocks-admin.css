@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ /* default */
+ 	.wp-block-blog-blocks-notice{
+ 		background-color: #fffed2;
+ 		border: 1px solid #E5E597;
+ 		padding: 10px 15px;
+ 	}
+ 	.wp-block-blog-blocks-notice.is-style-warning{
+ 		background-color: #ffd5d6;
+ 		border-color: #fd9d9f;
+ 	}
+ 	.wp-block-blog-blocks-notice.is-style-success{
+ 		background-color: #d6ffd1;
+ 		border-color: #7fe972;
+ 	}
+ 	.wp-block-blog-blocks-notice.is-style-tip{
+ 		background-color: #d3efff;
+    border-color: #7cbcfd;
+ 	}
+ 	.wp-block-blog-blocks-notice.is-style-neutral{
+ 		background-color: #e6e6e6;
+ 		border-color: #aaa;
+ 	}
